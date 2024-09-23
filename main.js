@@ -7,4 +7,4 @@ console.log(soma(2,3));
 function áreaQuadrado(num1){
     return num1**2
 }
-console.log(áreaQuadradof(2));
+console.log(áreaQuadrado(2));
