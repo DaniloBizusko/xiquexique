@@ -16,4 +16,3 @@ console.log(areatriangulo(8,5));
 
 let nome=prompt('digite seu nome');
 document.Write('nome');
-
