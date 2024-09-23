@@ -14,5 +14,7 @@ function areatriangulo(base,altura){
 }
 console.log(areatriangulo(8,5));
 
-let nome=prompt('digite seu nome');
+let valor1=parseInt(prompt('digite um numero'));
+let valor2=parseInt(prompt('digite um segundo numero'));
+let valor3=parseInt(prompt('digite um terceiro numero'));
 document.Write('nome');
