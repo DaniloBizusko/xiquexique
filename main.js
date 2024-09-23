@@ -13,6 +13,7 @@ function areatriangulo(base,altura){
     return (base*altura)/2;
 }
 console.log(areatriangulo(8,5));
-let nome=prompt
+
+let nome=prompt('pergunta');
 prompt('nome?');
 document Write(nome);
