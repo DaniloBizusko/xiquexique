@@ -21,4 +21,4 @@ function media(valor1,valor2,valor3){
     return (valor1*valor2*valor3)/3;
 }
 console.log(media(valor1,valor2,valor3));
-document.Write(media(valor1,valor2,valor3));
+document.write(media(valor1,valor2,valor3));
