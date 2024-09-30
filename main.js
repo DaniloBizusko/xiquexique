@@ -36,3 +36,7 @@ if(idade>17){
 else{
     console.log('ilegal dirigir')
 }
+for (let i = 0; i < estados.length; i++) {
+    const element = estados[i];
+    
+}
