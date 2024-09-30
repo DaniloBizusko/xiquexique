@@ -33,3 +33,6 @@ let idade=23;
 if(idade>17){
     console.log('já pode dirigir');
 }
+else{
+    console.log('ilegal dirigir')
+}
